@@ -22,4 +22,62 @@ title
 ...
 </aside>
 
+##How it is different from Library Science
+
+<aside class="notes">
+...
+</aside>
+
+##Library Science
+
+<aside class="notes">
+...
+</aside>
+
 ##People, Technology & Organizations
+
+<aside class="notes">
+...
+</aside>
+
+##People
+
+<aside class="notes">
+...
+</aside>
+
+##Technology
+
+<aside class="notes">
+...
+</aside>
+
+##Organizations
+
+<aside class="notes">
+...
+</aside>
+
+##How do they relate?
+
+<aside class="notes">
+...
+</aside>
+
+###explain
+
+<aside class="notes">
+...
+</aside>
+
+##Key Aspects/Skills of Information Science Professionals
+
+<aside class="notes">
+...
+</aside>
+
+##Jobs Within the Field
+
+<aside class="notes">
+...
+</aside>
